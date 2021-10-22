@@ -1,4 +1,4 @@
-# KrCurve-Data-assimilation
+# Learning Relative Permeability Curve by Data Assimilation
 
 The objective of this work is to infer the relative permeability curve kr(S) based on measurable data such as saturation and production time series. 
 
